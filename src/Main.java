@@ -6,6 +6,6 @@ public class Main {
         Point d = new Point(2,-6);
         Segment a = new Segment(c,d);
         Segment b = new Segment(new Point(), new Point(1,0));
-        a.print();
+        //comment
     }
 }
